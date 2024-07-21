@@ -1,13 +1,13 @@
 {
 	"Override": {
-		"REQ_Quest_Installation": "Misc",
-		"_SHStartPrompt": "Misc",
-		"SkyrimUnbound.*": "Misc",
-		"ARTHLALChargenQuest": "Misc",
+		"REQ_Quest_Installation": "None",
+		"_SHStartPrompt": "None",
+		"SkyrimUnbound.*": "None",
+		"ARTHLALChargenQuest": "None",
 		"ARTHLALRumorsOfWarQuest": "None",
 
-		"MQ101": "Misc",
-		"MQ102": "Misc",
+		"MQ101": "None",
+		"MQ102": "None",
 
 		"TGRDU": "SideQuest",
 		"TGRGF": "SideQuest",
@@ -26,14 +26,14 @@
 		"dunHillgrundsTombQST": "SideQuest",
 		"dunForelhostQST": "SideQuest",
 
-		"MGR21": "Misc",
+		"MGR21": "None",
 		"MGR30": "SideQuest",
 		"DBrecurring": "Misc",
 		"DLC1RV0[12345]": "SideQuest",
 		"DLC1RH0[1234567]": "SideQuest",
 		"DLC1RV07": "SideQuest",
-		"DLC2TTR[27]": "Misc",
-		"DLC2WB01": "Misc",
+		"DLC2TTR[27]": "None",
+		"DLC2WB01": "None",
 
 		"_M_Quest.*CourierLetterLow": "None",
 		"_M_Quest.*CourierLetterMed": "None",
