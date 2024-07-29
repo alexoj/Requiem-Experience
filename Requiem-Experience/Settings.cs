@@ -25,10 +25,10 @@ namespace RequiemExperience
         public bool PatchQuests = true;
 
         [SynthesisTooltip("Base Level UP XP required per level")]
-        public int LevelUpXPBase = 100;
+        public int LevelUpXPBase = 130;
 
         [SynthesisTooltip("Multiplied Level UP XP required per level")]
-        public int LevelUpXPMult = 50;
+        public int LevelUpXPMult = 25;
 
         [SynthesisSettingName("Preset for Experience")]
         [SynthesisTooltip("Apply (overwrite if exists) Experience.ini with preset\r\nNone - do not overwrite\r\nTrue Unlevelled - Killing XP values do not change\r\nExtra Rewarding - Killing XP values the bigger the higher enemies you hunt")]
